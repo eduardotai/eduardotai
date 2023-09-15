@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Hi, my name is Eduardo Tai, but you can just call me Tai. I'm 20 years old. I've recently decided to take a step back in my React studies in order to strengthen my foundation in the Web Development field. I'm currently doing TheOdinProject, an initiative that teaches you the basics but doesn't hold your hand through the development of anything. In analogy, it teaches you how to walk and talk; the rest is up to you.<br><br>I have advanced English skills, however, I've never taken any courses. I learned on my own over the years in a completely organic way.<br><br>My line of thinking has always been to learn on my own, but for some time that remained in my subconscious. However, now I'm actively seeking to learn on my own, just like I did with English, which is why I'm doing The Odin Project, as it aligns with my ideals.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardotai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -40,8 +44,6 @@
 <img align="right" height="150" src="https://i.imgur.com/cDCi4Hd.png"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/eduardotai/eduardotai/output/snake.svg" alt="Snake animation" />
 
