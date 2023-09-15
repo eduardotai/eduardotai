@@ -45,6 +45,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eduardotai/eduardotai/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eduardotai/count.svg?"  />
+</div>
 
 ###
