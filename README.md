@@ -39,8 +39,7 @@
   </a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotai&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eduardotai" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotai&show_icons=true&theme=tokyonight&locale=e
 ###
 
 <img align="right" height="150" src="https://i.imgur.com/cDCi4Hd.png"  />
