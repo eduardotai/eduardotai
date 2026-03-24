@@ -1,57 +1,112 @@
-<h2 align="left">Hi 👋! My name is Eduardo Tai, from RIo de Janeiro, Brazil</h2>
+# ⚡ Eduardo Tai — AI Systems Builder
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=eduardotai&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardotai&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotai&layout=compact)
 
-<p align="left">Hi, my name is Eduardo Tai, but you can just call me Tai. I'm 20 years old. I've recently decided to take a step back in my React studies in order to strengthen my foundation in the Web Development field. I'm currently doing TheOdinProject, an initiative that teaches you the basics but doesn't hold your hand through the development of anything. In analogy, it teaches you how to walk and talk; the rest is up to you.<br><br>I have advanced English skills, however, I've never taken any courses. I learned on my own over the years in a completely organic way.<br><br>My line of thinking has always been to learn on my own, but for some time that remained in my subconscious. However, now I'm actively seeking to learn on my own, just like I did with English, which is why I'm doing The Odin Project, as it aligns with my ideals.</p>
+---
 
-###
+## 🧠 About Me
 
-<div align="center">
+I'm focused on building **AI-native systems** that automate real workflows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotai&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eduardotai" /></p>
+Background in full-stack development (React, Node.js), now transitioning into:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardotai&show_icons=true&theme=tokyonight&locale=en" alt="eduardotai" /></p>
+→ **AI systems engineering**  
+→ **multi-agent architectures**  
+→ **workflow automation using LLMs**
 
+I don’t treat AI as a feature — I build systems where **AI is the core layer**.
 
-</div>
+---
 
-###
+## 🚀 What I Build
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
+- Multi-agent systems (orchestration, role separation)
+- AI-driven automation (triage, content pipelines, decision systems)
+- Local-first AI tools with human validation layers
+- Practical systems designed for **real-world usage**
 
-###
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/@lordd10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/dlordd10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-tai-de-salles-rodrigues-9389451a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🧩 Highlight Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotai&show_icons=true&theme=tokyonight&locale=e
-###
+### ⚙️ AI & Automation
 
-<img align="right" height="150" src="https://i.imgur.com/cDCi4Hd.png"  />
+#### 🧠 EconomizaAI Local *(WIP)*
+> Local-first AI system for structured data extraction and validation
 
-###
+- Human-in-the-loop required
+- Safe automation (no blind execution)
+- Designed for real-world workflows (e.g., legal/financial)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eduardotai/count.svg?"  />
-</div>
+---
 
-###
+#### 🤖 TaskStream
+> AI-oriented task orchestration system
+
+- Focus on productivity + automation
+- Evolving toward AI-assisted workflows
+- Modular system design
+
+👉 https://github.com/eduardotai/taskstream
+
+---
+
+#### 🎬 Multi-Agent Content System *(Concept)*
+> Autonomous pipeline for YouTube/content creation
+
+Agents:
+- Research
+- Summarization
+- Script generation
+- Distribution
+
+---
+
+### 🌐 Full-Stack Foundation
+
+- React + Node.js apps (dashboards, SaaS-like tools)
+- E-commerce systems
+- API-driven applications
+
+These projects built the foundation for my current focus on AI systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+- JavaScript / TypeScript
+- React
+- Node.js
+
+**AI / Systems**
+- LLM APIs (OpenAI, etc.)
+- Prompt Engineering
+- Multi-agent design
+- Workflow orchestration
+
+**Concepts**
+- Human-in-the-loop systems  
+- Local-first architecture  
+- Validation layers  
+- Modular agents  
+
+---
+
+## 🎯 Current Direction
+
+Building systems that:
+
+- Replace repetitive cognitive work  
+- Operate safely with validation layers  
+- Scale using multiple specialized agents  
+
+> From apps that *use AI* → to systems that *are AI-native*
+
+---
+
+## 📫 Contact
+
+Open to building interesting systems and collaborating on AI-driven products.
