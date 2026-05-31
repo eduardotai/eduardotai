@@ -1,148 +1,116 @@
-# ⚡ Eduardo Tai — Building AI Systems & Practical Automation
+# ⚡ Eduardo Tai
+
+**Building practical AI systems, automation workflows & multi-agent architectures.**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eduardotai&label=Profile%20views&color=0e75b6&style=flat" alt="eduardotai" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems-blue" alt="Focus: AI Systems" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-6f42c1" alt="Automation Workflows" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20TypeScript-2ea44f" alt="Stack" />
+  <img src="https://komarev.com/ghpvc/?username=eduardotai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Automation-blue" alt="Focus" />
+  <img src="https://img.shields.io/badge/From-Full--stack%20%E2%86%92%20AI--native-6f42c1" alt="Transition" />
+  <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro-green" alt="Location" />
 </p>
+
+---
 
 ## 🧠 About Me
 
-I'm building practical systems that combine **AI, automation, and product thinking**.
+I'm a builder focused on **practical, reliable AI systems** that solve real problems.
 
-My background started with hands-on study in web development, where I built projects with **React, Node.js, JavaScript, and TypeScript**. Today, my focus is evolving toward **AI-native workflows**, multi-agent logic, and automation systems designed for real-world use.
+My journey started with hands-on full-stack development (React, TypeScript, Node.js). Today I'm evolving toward **AI-native architectures** — where AI isn't just a feature, but part of the operating logic itself.
 
-What interests me most is not treating AI as a gimmick or a small feature inside an app, but as a **core layer for execution, orchestration, and decision support**.
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardotai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=eduardotai&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotai&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 What I'm Focused On
-
-- AI systems for real-world workflows
-- Workflow automation with LLMs
+I'm especially interested in:
 - Multi-agent orchestration
-- Human-in-the-loop validation
-- Local-first and reliability-oriented product design
-- Building useful systems instead of demo-only experiments
+- Human-in-the-loop validation flows
+- Local-first & reliable automation
+- Building systems that reduce cognitive load while keeping humans in control
+
+Currently a **Law student (9th period)**, I also create educational content and experiment with custom AI agents and workflows that bridge technology, productivity, and real-world use cases.
 
 ---
 
-## 🧩 Highlight Projects
+## 🚀 What I'm Focused On Right Now
 
-### **EconomizaAI Local** *(work in progress)*
-Local-first AI system designed around structured extraction, validation, and safe execution flows.
+- **AI Systems & Multi-Agent Design** — Building agents and workflows that actually execute useful work
+- **Local-First Automation** — Tools that run in the browser or locally with strong validation layers
+- **Custom Agent Development** — Creating specialized agents and skills (including for Grok/xAI ecosystems)
+- **Product Thinking in AI** — Moving beyond demos to reliable, usable systems
+- **Creative Experiments** — Game prototypes, interactive tools, and fun technical explorations
 
-**Focus areas:**
-- Human review before action
-- Controlled automation
-- Reliability over blind execution
-- AI-assisted operational workflows
+---
 
-### **TaskStream**
-A task and workflow system evolving toward AI-assisted orchestration and execution.
+## 🧩 Featured Projects
 
-**Focus areas:**
-- Workflow design
-- Productivity systems
-- Modular task logic
-- Future AI integration direction
+### 🔥 Recent & Active
 
-🔗 Repo: `eduardotai/taskstream`
+**[pendulum-clicker](https://github.com/eduardotai/pendulum-clicker)**  
+Physics-based idle clicker built with Vite + React + Matter.js. A creative technical experiment in interactive systems.
 
-### **GPT Pokecord**
-A lightweight experiment around AI interaction inside a live system context.
+**[economizaia-local](https://github.com/eduardotai/economizaia-local)**  
+Local-first fiscal simulation and analysis tool in Next.js. Processes everything in the browser with structured extraction and validation focus.
 
-**Focus areas:**
-- Interactive AI usage
-- Lightweight automation
-- Early proof-of-concept thinking
+### Core Systems
 
-🔗 Repo: `eduardotai/gptpokecord`
+**[taskstream](https://github.com/eduardotai/taskstream)**  
+Workflow and task orchestration system evolving toward AI-assisted execution.
 
-### **Selected Full-Stack Projects**
-A set of earlier projects that built my technical foundation in frontend and backend development.
+**[rundb](https://github.com/eduardotai/rundb)**  
+Modern database/workflow tooling (active development).
 
-Examples include:
-- React interfaces
-- API-driven apps
-- dashboards and utility systems
-- e-commerce and web app experiments
+### Experiments & Foundations
 
-Relevant repos:
-- `eduardotai/busan`
-- `eduardotai/pcbenchhub`
-- `eduardotai/bookfinder`
-- `eduardotai/ecommerce-react`
+- **GPT Pokecord** — Early interactive AI system experiments
+- Various full-stack foundations: `busan`, `pcbenchhub`, `jogaliso`, `vairodar`
+
+> Full list of repositories available on my profile.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- HTML / CSS / SCSS
+**Core**  
+TypeScript • React • Next.js • Node.js • Vite
 
-### AI / Automation
-- LLM APIs
-- Prompt engineering
-- Multi-agent system design
-- Workflow automation concepts
-- Human-in-the-loop validation flows
+**AI & Automation**  
+LLM APIs • Prompt Engineering • Multi-agent system design • Workflow orchestration • Human-in-the-loop validation • Local-first architecture
 
-### Product / Systems Thinking
-- Local-first architecture
-- Safe automation layers
-- Modular design
-- Real-world usability focus
+**Product & Systems**  
+Reliability-focused design • Modular architecture • Real-world usability • Building in public
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardotai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=eduardotai&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect & Content
+
+- **X / Twitter**: [@taisalless](https://x.com/taisalless) — Libertarian ideas, tech, and building in public
+- **YouTube**: [@lordd10](https://youtube.com/@lordd10) (gaming + sim racing) & [@taisalless](https://youtube.com/@taisalless) (legal/educational content)
+- **Twitch**: [lordd10](https://twitch.tv/lordd10)
+
+Open to connecting with people building serious AI systems, automation tools, or interesting agent architectures.
 
 ---
 
 ## 🎯 Current Direction
 
-I'm currently positioning my work around a simple idea:
+> From building apps that *include* AI → building systems where AI is part of the **operating logic**.
 
-> move from building apps that merely include AI  
-> to building systems where AI is part of the operating logic itself
+I'm focused on creating tools that are:
+- Reliable enough for real use
+- Transparent and controllable by humans
+- Designed with local execution and validation in mind
 
-That means exploring products and architectures that can:
-
-- reduce repetitive cognitive work
-- assist decision-making
-- automate multi-step flows
-- keep humans in control when validation matters
+This GitHub is my public notebook for that transition.
 
 ---
 
-## 📌 Repository Direction
-
-I'm using GitHub as a space to document this transition from traditional project-building into **AI systems and automation-oriented development**.
-
-That includes:
-- practical project experiments
-- architecture-first repos
-- workflow concepts
-- systems that can evolve into real products
-
----
-
-## 📫 Contact
-
-Open to connecting with people interested in:
-- AI systems
-- automation
-- product-building
-- practical LLM use cases
+**Let's build useful things.**
