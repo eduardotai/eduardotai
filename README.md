@@ -23,7 +23,7 @@ I'm especially interested in:
 - Local-first & reliable automation
 - Building systems that reduce cognitive load while keeping humans in control
 
-Currently a **Law student (9th period)**, I also create educational content and experiment with custom AI agents and workflows that bridge technology, productivity, and real-world use cases.
+I experiment with custom AI agents, workflows, and tools designed for real execution rather than just demos.
 
 ---
 
@@ -90,10 +90,10 @@ Reliability-focused design • Modular architecture • Real-world usability •
 
 ---
 
-## 📫 Connect & Content
+## 📫 Connect
 
-- **X / Twitter**: [@taisalless](https://x.com/taisalless) — Libertarian ideas, tech, and building in public
-- **YouTube**: [@lordd10](https://youtube.com/@lordd10) (gaming + sim racing) & [@taisalless](https://youtube.com/@taisalless) (legal/educational content)
+- **X**: [@taisalless](https://x.com/taisalless)
+- **YouTube**: [@lordd10](https://youtube.com/@lordd10) • [@taisalless](https://youtube.com/@taisalless)
 - **Twitch**: [lordd10](https://twitch.tv/lordd10)
 
 Open to connecting with people building serious AI systems, automation tools, or interesting agent architectures.
