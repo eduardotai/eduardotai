@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Eduardo Tai, Rio de Janeiro">
+  <rect width="1200" height="320" fill="#090909"/>
+  <rect x="0" y="0" width="8" height="320" fill="#36f97f"/>
+
+  <g stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="320"/>
+    <line x1="160" y1="0" x2="160" y2="320"/>
+    <line x1="240" y1="0" x2="240" y2="320"/>
+    <line x1="320" y1="0" x2="320" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="480" y1="0" x2="480" y2="320"/>
+    <line x1="560" y1="0" x2="560" y2="320"/>
+    <line x1="640" y1="0" x2="640" y2="320"/>
+    <line x1="720" y1="0" x2="720" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="880" y1="0" x2="880" y2="320"/>
+    <line x1="960" y1="0" x2="960" y2="320"/>
+    <line x1="1040" y1="0" x2="1040" y2="320"/>
+    <line x1="1120" y1="0" x2="1120" y2="320"/>
+    <line x1="0" y1="64" x2="1200" y2="64"/>
+    <line x1="0" y1="256" x2="1200" y2="256"/>
+  </g>
+
+  <text x="48" y="48" fill="#8a8a8a" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="5">RIO DE JANEIRO</text>
+
+  <text x="48" y="158" fill="#f4f0e8" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="6">EDUARDO TAI</text>
+  <text x="48" y="198" fill="#a3a3a3" font-family="Arial, Helvetica, sans-serif" font-size="18">Two products in production. Most of the hours go here.</text>
+
+  <rect x="48" y="232" width="10" height="10" fill="#36f97f"/>
+  <text x="68" y="242" fill="#cdeed8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">RUNDB</text>
+  <rect x="148" y="232" width="10" height="10" fill="#f5f5f5"/>
+  <text x="168" y="242" fill="#e5e5e5" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">TTBR</text>
+
+  <polyline fill="none" stroke="#36f97f" stroke-width="2.5" stroke-linejoin="round" points="760,230 790,200 820,208 850,168 880,184 910,142 940,158 970,118 1000,136 1030,98 1060,120 1090,86 1120,104 1152,72"/>
+  <path d="M760,250 C820,248 860,170 930,168 S1040,220 1090,140 S1140,96 1152,88" fill="none" stroke="#f5f5f5" stroke-width="2" stroke-linejoin="round" opacity="0.9"/>
+
+  <text x="760" y="48" fill="#5c5c5c" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">FPS  /  TELEMETRY</text>
+</svg>

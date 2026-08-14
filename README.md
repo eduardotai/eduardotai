@@ -1,98 +1,81 @@
-# 👋 Hi, I'm Eduardo Tai
-
-**Building practical AI systems, automation workflows & multi-agent architectures.**
-
-From full-stack foundations to AI-native systems where intelligence drives core workflows.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eduardotai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro-brightgreen?style=flat" alt="Location: Rio de Janeiro" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Automation-6366f1?style=flat" alt="Focus: AI Systems & Automation" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Next.js%20%7C%20AI-000000?style=flat" alt="Stack" />
+<p align="center">
+  <img src="assets/header.svg" alt="Eduardo Tai, Rio de Janeiro. RunDB and TTBR." width="100%" />
 </p>
 
----
+I ship from Rio. Two products take most of the hours.
 
-## 🚀 What I'm Building Right Now
+This week that is **TTBR**, a sim racing coach for Brazil with a Windows agent, and **RunDB**, a community FPS database for real PC hardware.
 
-My recent activity (last commits & PRs) is focused on shipping production-grade tools:
-
-- **rundb** — The main project: community PC gaming performance database. Real hardware + FPS reports, automated Steam game discovery & catalog ingestion, advanced browse filters, moderation workflows, and rich insights. 
-- **SetupForge** — Brazilian sim racing equivalent of ProtonDB: verified setups + an AI coach in Portuguese.
-- **Claude Usage Dashboard** — Private, local-first tool for tracking and visualizing Claude Code / LLM token usage over time.
-
-**Most active repo:** [rundb](https://github.com/eduardotai/rundb) (by far — dozens of recent commits around catalog automation, UI filters, data integrity).
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[rundb](https://github.com/eduardotai/rundb)** | Community-driven FPS benchmarks & hardware reports for PC gaming. Automated ingest, tiered performance insights, powerful filters & moderation. | Next.js • TypeScript • Supabase • PostgreSQL • Tailwind • shadcn/ui • Vercel |
-| **[setupforge](https://github.com/eduardotai/setupforge)** | Curated sim racing setups + Portuguese-speaking AI setup coach. "ProtonDB for sim racing BR". | TypeScript • Next.js • Supabase |
-| **[claude-usage-dashboard](https://github.com/eduardotai/claude-usage-dashboard)** | Beautiful private local dashboard for Claude token usage analytics and trends. Fast, no cloud required. | SvelteKit • FastAPI • Chart.js • Tailwind |
-| **[penduricalho](https://github.com/eduardotai/penduricalho)** | Physics-based interactive idle pendulum clicker built as a creative technical playground. | Vite • React • Matter.js |
-| **[economizaia-local](https://github.com/eduardotai/economizaia-local)** | Local-first fiscal simulation & tax analysis app. All processing in-browser. | Next.js • JavaScript |
-
-**➡️ [All repositories →](https://github.com/eduardotai?tab=repositories)**
-
----
-
-## 🛠️ Tech & Principles
-
-**Languages & Runtimes**  
-TypeScript • JavaScript • Python • Node.js
-
-**Frontend & Frameworks**  
-React • Next.js • SvelteKit • Vite • Tailwind CSS • shadcn/ui
-
-**Data & Backend**  
-Supabase • PostgreSQL • FastAPI • Local-first architectures
-
-**AI, Agents & Automation**  
-LLM APIs & orchestration • Multi-agent systems • Workflow automation • Prompt engineering • Human-in-the-loop validation • Local execution & privacy
-
-**Tooling & Delivery**  
-Vercel • GitHub Actions • Chart.js • Modular design
-
-**Core Values**  
-- Build things that are actually useful in production  
-- Prioritize reliability, transparency, and user control  
-- Local-first where it makes sense  
-- Learn by shipping real projects
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardotai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Eduardo Tai GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=eduardotai&theme=tokyonight&hide_border=true" height="165" alt="Contribution Streak" />
+  <a href="https://github.com/eduardotai/rundb">
+    <img src="assets/rundb.svg" alt="RunDB: can your PC run it? Community FPS reports on real hardware." width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <a href="https://rundb-ten.vercel.app"><img src="https://img.shields.io/badge/live-rundb--ten.vercel.app-36f97f?style=flat-square&labelColor=0b0f0c" alt="RunDB live" /></a>
+  &nbsp;
+  <a href="https://github.com/eduardotai/rundb"><img src="https://img.shields.io/badge/source-eduardotai%2Frundb-36f97f?style=flat-square&labelColor=0b0f0c" alt="RunDB source" /></a>
 </p>
 
----
+Store-page minimum spec is marketing. RunDB answers the useful version. Can this machine run this game, at what settings, and what did similar CPUs and GPUs actually measure?
 
-## 📫 Connect & Collaborate
+You save a rig (CPU, GPU, RAM, resolution). You browse a catalog ingested from Steam, IGDB, and PCGamingWiki. You read reports with average FPS, 1% lows, presets, tweaks, and a tier from Excellent down to Unplayable. New reports go through moderation before they hit public stats. Predictions get better as similar hardware shows up.
 
-- **X**: [@taisalless](https://x.com/taisalless)
-- **GitHub**: [eduardotai](https://github.com/eduardotai)
-- **YouTube**: [@lordd10](https://www.youtube.com/@lordd10) • [@taisalless](https://www.youtube.com/@taisalless)
-- **Twitch**: [lordd10](https://www.twitch.tv/lordd10)
-- **Email**: eduardotaidsr@gmail.com
+Next.js 16, React 19, TypeScript, Supabase, Postgres with RLS, Tailwind 4, shadcn/ui, Vercel.
 
-Open to connecting with builders focused on serious AI systems, reliable automation, and agentic workflows.
+<br/>
 
----
+<p align="center">
+  <a href="https://github.com/eduardotai/ttbr">
+    <img src="assets/ttbr.svg" alt="TTBR: sim racing coaching in Portuguese, with PIX and a Windows agent." width="100%" />
+  </a>
+</p>
 
-> **Current direction**: Moving from "apps that use AI" to **systems where AI is part of the fundamental operating logic** — reliable, local-capable, and controllable.
+<p align="center">
+  <a href="https://ttbr-nine.vercel.app"><img src="https://img.shields.io/badge/live-ttbr--nine.vercel.app-f5f5f5?style=flat-square&labelColor=121212" alt="TTBR live" /></a>
+  &nbsp;
+  <a href="https://github.com/eduardotai/ttbr"><img src="https://img.shields.io/badge/source-eduardotai%2Fttbr-f5f5f5?style=flat-square&labelColor=121212" alt="TTBR source" /></a>
+</p>
 
-Thanks for stopping by. Star repos you like, open issues, or reach out. Let's build useful things.
+A pretty delta graph does not tell you what to do on the next lap. TTBR does. A .NET 8 agent on Windows reads iRacing and Le Mans Ultimate from shared memory. After a session the web app shows traces, delta vs your best, and one root-cause tip in Portuguese.
 
----
+Checkout is Mercado Pago. PIX and card. Prices in real, not dollars. Free is 20 sessions and 5 tips. Plus is R$ 29,90/mês, with a PIX promo on the first month and an optional 7-day trial that you opt into. The installer is a real `.exe`. The product copy is pt-BR because the pilots are.
 
-<sub>Last updated based on recent GitHub activity (June 2026).</sub>
+Next.js, Supabase Auth, .NET desktop, Mercado Pago, Vercel.
+
+<br/>
+
+<p align="center">
+  <img src="assets/skills.svg" alt="Stack: TypeScript, Next.js, Supabase, .NET, Postgres, Vercel" width="100%" />
+</p>
+
+TypeScript is the default. Next.js and Supabase for the web products. C# when the job is a tray agent talking to a sim. Postgres when the data has to survive. Vercel to ship.
+
+<br/>
+
+## On the side
+
+**[SetupForge](https://github.com/eduardotai/setupforge).** Verified sim racing setups plus a Portuguese AI coach. The ProtonDB idea, aimed at Brazilian grids. Older cousin of TTBR.
+
+**AdvSystem.** Private practice OS for a Brazilian law firm. Offline-first PWA, clients and cases. Closed source on purpose.
+
+**[Claude usage dashboard](https://github.com/eduardotai/claude-usage-dashboard).** Local token charts for Claude Code. FastAPI + SvelteKit. Nothing leaves the machine.
+
+**[Penduricalho](https://penduricalho.vercel.app).** A Matter.js pendulum clicker. I wanted a physics toy, not another form.
+
+<br/>
+
+## Elsewhere
+
+I also stream and post.
+
+<p>
+  <a href="https://x.com/taisalless"><img src="https://img.shields.io/badge/X-taisalless-ece8e1?style=flat-square&labelColor=090909" alt="X" /></a>
+  <a href="https://www.twitch.tv/lordd10"><img src="https://img.shields.io/badge/Twitch-lordd10-ece8e1?style=flat-square&labelColor=090909" alt="Twitch" /></a>
+  <a href="https://www.youtube.com/@lordd10"><img src="https://img.shields.io/badge/YouTube-lordd10-ece8e1?style=flat-square&labelColor=090909" alt="YouTube lordd10" /></a>
+  <a href="https://www.youtube.com/@taisalless"><img src="https://img.shields.io/badge/YouTube-taisalless-ece8e1?style=flat-square&labelColor=090909" alt="YouTube taisalless" /></a>
+  <a href="mailto:eduardotaidsr@gmail.com"><img src="https://img.shields.io/badge/email-eduardotaidsr%40gmail.com-ece8e1?style=flat-square&labelColor=090909" alt="Email" /></a>
+</p>
